@@ -14,13 +14,13 @@ Write a program, which receives **4 integers** on the console and prints them in
 |   1     |                          |
 |   5331  |                          |
 |         |                          |
-|         |                          |
+
 |   9182  |  9182 4221 0012 0003     |
 |   4221  |                          |
 |   12    |                          |
 |   3     |                          |
 |         |                          |
-|         |                          |
+
 |   812   |  0812 0321 0123 0022     |
 |   321   |                          |
 |   123   |                          |
@@ -35,11 +35,11 @@ Write a program, which calculates a **rectangle’s area,** based on its **width
 | :---   |      ---: | 
 |   2    |   14.00   |
 |   7    |           |
-|        |           |
+
 |        |           |
 |   7    |   56.00   |
 |   8    |           |
-|        |           |
+
 |        |           |
 |  12.33 |   61.65   |
 |   5    |           |
