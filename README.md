@@ -13,7 +13,6 @@ Write a program, which receives **4 integers** on the console and prints them in
 |   433   |                          |
 |   1     |                          |
 |   5331  |                          |
-|         |                          |
 
 |  Input  |         Output           |                                                     
 | :---    |                     ---: |
@@ -21,7 +20,6 @@ Write a program, which receives **4 integers** on the console and prints them in
 |   4221  |                          |
 |   12    |                          |
 |   3     |                          |
-|         |                          |
 
 |  Input  |         Output           |                                                     
 | :---    |                     ---: |
@@ -29,7 +27,6 @@ Write a program, which receives **4 integers** on the console and prints them in
 |   321   |                          |
 |   123   |                          |
 |   22    |                          |
-|         |                          |
 
 ## Problem 2. Rectangle Area
 Write a program, which calculates a **rectangle’s area,** based on its **width** and **height**. The **width** and **heigh**t come as floating point numbers on the console, **formatted to the 2nd character after the decimal point.**
