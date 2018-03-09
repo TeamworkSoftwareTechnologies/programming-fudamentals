@@ -8,21 +8,21 @@ Write a program, which receives **4 integers** on the console and prints them in
 ### Examples
 
 |  Input  |         Output           |                                                     
-| :---    |                     ---: |
+| :---    |                    :---: |
 |   12    |  0012 0433 0001 5331     |
 |   433   |                          |
 |   1     |                          |
 |   5331  |                          |
 
 |  Input  |         Output           |                                                     
-| :---    |                     ---: |
+| :---    |                    :---: |
 |   9182  |  9182 4221 0012 0003     |
 |   4221  |                          |
 |   12    |                          |
 |   3     |                          |
 
 |  Input  |         Output           |                                                     
-| :---    |                     ---: |
+| :---    |                    :---: |
 |   812   |  0812 0321 0123 0022     |
 |   321   |                          |
 |   123   |                          |
@@ -33,17 +33,17 @@ Write a program, which calculates a **rectangle’s area,** based on its **width
 
 ### Examples
 | Input  |   Output  |
-| :---   |      ---: | 
+| :---   |     :---: | 
 |   2    |   14.00   |
 |   7    |           |
 
 | Input  |   Output  |
-| :---   |      ---: | 
+| :---   |     :---: | 
 |   7    |   56.00   |
 |   8    |           |
 
 | Input  |   Output  |
-| :---   |      ---: | 
+| :---   |     :---: | 
 |  12.33 |   61.65   |
 |   5    |           |
 
@@ -56,7 +56,7 @@ Note: **1 mile == 1.60934 kilometers**
 ### Examples
 
 | Input  |   Output  | Input  |   Output  | Input   |   Output  |  
-| :---   |      ---: | :---   |   :---:   | :---    |      ---: |
+| :---   |     :---: | :---:  |   :---:   | :---:   |     :---: |
 |  60    |  96.56    |  1     |  1.61     | 52.1113 |  83.86    |
 
 ## Problem 4. Beverage Labels
@@ -68,7 +68,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 
 ### Examples
 | Input | Output | 
-| --- | --- | 
+| :---: | :---: | 
 | Nuke-Cola  | 220ml Nuka-Cola: |
 | 220 | 660kcal, 154g sugars |
 | 300 |
@@ -76,7 +76,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 
 
 | Input | Output | 
-| --- | --- | 
+| :---: | :---: | 
 | Ice Cold-Cola  | 220ml Ice Cold-Cola: |
 | 250 | 875kcal, 162.5g sugars |
 | 350 |
@@ -84,7 +84,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 
 
 | Input | Output | 
-| --- | --- | 
+| --- | :--- | 
 | Nuka-Cola Quantum  | 350ml Nuka-Cola Quantum: |
 | 350 | 2100kcal, 490g sugars |
 | 600 |
@@ -97,7 +97,7 @@ Write a program, which **displays information** about a video game character. Yo
 # Examples
 
 |  Input  |  Output  |
-|:---|---:|
+|:---|:---:|
 | Mayro | Name: Mayro   |
 | 5     | Health: \|\|\|\|\|\|\.\.\.\.\.\| |
 | 10    | Energy: \|\|\|\|\|\|\|\|\|\|\.\| |
@@ -105,7 +105,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 10    |                                  |
 
 |  Input  |  Output  |
-|:---|---:|
+|:---|:---:|
 | Bauser | Name: Bauser   |
 | 10     | Health: \|\|\|\|\|\|\|\|\|\|\|\| |
 | 10     | Energy: \|\|\|\|\|\|\|\|\|\|\|\| |
@@ -113,7 +113,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 10     |                                  |
 
 |  Input  |  Output  |
-|:---|---:|
+|:---|:---:|
 | Loogi | Name: Loogi   |
 | 8     | Health: \|\|\|\|\|\|\|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
 | 20    | Energy: \|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
@@ -121,7 +121,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 14    |                                  |
 
 |  Input  |  Output  |
-|:---|---:|
+|:---|:---:|
 | Toad   | Name: Toad   |
 | 0      | Health: \|\.\.\.\.\.\| |
 | 5      | Energy: \|\.\.\.\.\.\.\.\.\.\.\| |
