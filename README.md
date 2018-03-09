@@ -133,3 +133,4 @@ Write a program, which **displays information** about a video game character. Yo
 You can print a character **multiple** times, using **new string(character, count).**
 
 @[Teamwork](https://github.com/TeamworkSoftwareTechnologies)
+:octocat:
