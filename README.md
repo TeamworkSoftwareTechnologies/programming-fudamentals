@@ -39,13 +39,11 @@ Write a program, which calculates a **rectangle’s area,** based on its **width
 
 | Input  |   Output  |
 | :---   |      ---: | 
-|        |           |
 |   7    |   56.00   |
 |   8    |           |
 
 | Input  |   Output  |
 | :---   |      ---: | 
-|        |           |
 |  12.33 |   61.65   |
 |   5    |           |
 
