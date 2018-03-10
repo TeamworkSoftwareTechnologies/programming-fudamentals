@@ -1,5 +1,5 @@
     
-## Each Member, including the Team Leader should clone the repository and:
+# Each Member, including the Team Leader should clone the repository and:
 
   ###  1. Add a solution for a problem from the exercise:
 Member 1 /Team Lead/ adds solution for Problem 1 /already added/;<p>
@@ -16,8 +16,11 @@ Member 4 documents the code of Solution of Problem 5;<p>
 Member 5 documents the code of Solution of Problem 1;<p>
 
   ###  3. Add description in README.md for the NEXT problem:
-Member 1 adds description of Problem 3;<p>                    описанието може да копирате от README.md 
-Member 2 adds description of Problem 4;<p>                 в главната папка. Само за задачата която ще правите
+Member 1 adds description of Problem 3;<p>                    
+Member 2 adds description of Problem 4;<p>                 
 Member 3 adds description of Problem 5;<p>
 Member 4 adds description of Problem 1;<p>
 Member 5 adds description of Problem 2;<p>
+
+`Oписанието може да копирате от README.md 
+в главната папка. Само за задачата която ще правите`
