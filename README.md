@@ -76,7 +76,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 
 
 | Input | Output | 
-| :---: | :---: | 
+| :---: | --- | 
 | Ice Cold-Cola  | 220ml Ice Cold-Cola: |
 | 250 | 875kcal, 162.5g sugars |
 | 350 |
@@ -84,7 +84,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 
 
 | Input | Output | 
-| --- | :--- | 
+| --- | --- | 
 | Nuka-Cola Quantum  | 350ml Nuka-Cola Quantum: |
 | 350 | 2100kcal, 490g sugars |
 | 600 |
@@ -97,7 +97,7 @@ Write a program, which **displays information** about a video game character. Yo
 # Examples
 
 |  Input  |  Output  |
-|:---|:---:|
+|:---| --- |
 | Mayro | Name: Mayro   |
 | 5     | Health: \|\|\|\|\|\|\.\.\.\.\.\| |
 | 10    | Energy: \|\|\|\|\|\|\|\|\|\|\.\| |
@@ -105,7 +105,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 10    |                                  |
 
 |  Input  |  Output  |
-|:---|:---:|
+|:---| --- |
 | Bauser | Name: Bauser   |
 | 10     | Health: \|\|\|\|\|\|\|\|\|\|\|\| |
 | 10     | Energy: \|\|\|\|\|\|\|\|\|\|\|\| |
@@ -113,7 +113,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 10     |                                  |
 
 |  Input  |  Output  |
-|:---|:---:|
+|:---| --- |
 | Loogi | Name: Loogi   |
 | 8     | Health: \|\|\|\|\|\|\|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
 | 20    | Energy: \|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
@@ -121,7 +121,7 @@ Write a program, which **displays information** about a video game character. Yo
 | 14    |                                  |
 
 |  Input  |  Output  |
-|:---|:---:|
+|:---| --- |
 | Toad   | Name: Toad   |
 | 0      | Health: \|\.\.\.\.\.\| |
 | 5      | Energy: \|\.\.\.\.\.\.\.\.\.\.\| |
