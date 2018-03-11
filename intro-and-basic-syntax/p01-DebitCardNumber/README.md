@@ -25,4 +25,4 @@ Write a program, which receives **4 integers** on the console and prints them in
 |   22    |                          |
 
 
-![progress](http://progressed.io/bar/100?title=completed"progress")
+![progress](http://progressed.io/bar/100?title=completed)
