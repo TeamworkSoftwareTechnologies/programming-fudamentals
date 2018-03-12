@@ -26,12 +26,12 @@ Member 5 adds description of Problem 2;
 в главната папка. Само за задачата която ще правите`
 
 ###  4. Change a variable name in the NEXT Problem: 
-Member 1 changes variable name in Problem 4;
-Member 2 changes variable name in Problem 5;
-Member 3 changes variable name in Problem 1;
+Member 1 changes variable name in Problem 4;\
+Member 2 changes variable name in Problem 5;\
+Member 3 changes variable name in Problem 1;\
 Etc.
 ###  5. Check the solution of NEXT Problem.
-Member 1 checks Problem 5;
-Member 2 checks Problem 1;
-Member 3 checks Problem 2;
+Member 1 checks Problem 5;\
+Member 2 checks Problem 1;\
+Member 3 checks Problem 2;\
 Etc.
