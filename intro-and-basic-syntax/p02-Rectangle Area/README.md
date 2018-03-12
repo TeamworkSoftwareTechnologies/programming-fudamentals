@@ -4,13 +4,13 @@ Write a program, which calculates a rectangle’s area, based on its width and h
 
 ### Examples
 
-|Input| Output  |
-| :---|   :---: |
-|2    |14.00    |
-|7    |         |
-|7    |56.00    |
-|8    |         |
-|12.33|61.65    |
-|5    |         |
+|Input  | Output   |
+| :---  |   :---:  |
+|2      |14.00     |
+|7      |          |
+|7      |56.00     |
+|8      |          |
+|12.33  |61.65     |
+|5      |          |
 
 ![progress](http://progressed.io/bar/100?title=completed)
