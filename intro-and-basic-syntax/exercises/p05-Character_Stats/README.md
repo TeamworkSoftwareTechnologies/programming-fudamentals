@@ -1,5 +1,5 @@
-### [](https://github.com/TeamworkSoftwareTechnologies/programming-fudamentals/blob/master/README.md#problem-5--character-stats)Problem 
-## Problem 5. * Character Stats
+### [](https://github.com/TeamworkSoftwareTechnologies/programming-fudamentals/blob/master/README.md#problem-5--character-stats)
+## Problem 5. * [Character Stats](https://github.com/TeamworkSoftwareTechnologies/programming-fudamentals/blob/master/intro-and-basic-syntax/exercises/p05-Character_Stats/p05CharacterStats.cs)
 
 Write a program, which **displays information** about a video game character. You will receive their **name, current health, maximum health, current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal** or **lower** than their respective **max** values). Print them in the format as per the examples.
 
