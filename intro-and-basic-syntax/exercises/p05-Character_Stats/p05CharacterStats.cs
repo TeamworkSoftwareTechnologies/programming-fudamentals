@@ -1,4 +1,5 @@
-﻿using System;
+//CONFIRMED from naseood
+using System;
 
 namespace Character_Stats
 {
@@ -14,10 +15,10 @@ namespace Character_Stats
             int maxEnergy = int.Parse(Console.ReadLine());
 
             //set how many strips and dots we have made by values 
-            var pipesHealth = new string('|', currentHealth);
-            var dotsHealth = new string('.', maxHealth - currentHealth);
-            var pipesEnergy = new string('|', currentEnergy);
-            var dotsEnergy = new string('.', maxEnergy - currentEnergy);
+            int pipesHealth = new string('|', currentHealth);
+            int dotsHealth = new string('.', maxHealth - currentHealth);
+            int pipesEnergy = new string('|', currentEnergy);
+            int dotsEnergy = new string('.', maxEnergy - currentEnergy);
 
             //print the result
             Console.WriteLine("Name: " + name);
