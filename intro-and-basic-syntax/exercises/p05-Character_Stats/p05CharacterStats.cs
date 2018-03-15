@@ -8,7 +8,7 @@ namespace Character_Stats
         static void Main(string[] args)
         {
             //here we take the value from console
-            var name = Console.ReadLine();
+            var nameOfCharacter = Console.ReadLine();
             int currentHealth = int.Parse(Console.ReadLine());
             int maxHealth = int.Parse(Console.ReadLine());
             int currentEnergy = int.Parse(Console.ReadLine());
@@ -21,7 +21,7 @@ namespace Character_Stats
             int dotsEnergy = new string('.', maxEnergy - currentEnergy);
 
             //print the result
-            Console.WriteLine("Name: " + name);
+            Console.WriteLine("Name: " + nameOfCharacter);
             Console.WriteLine("Health: |" + pipesHealth + dotsHealth + "|");
             Console.WriteLine("Energy: |" + pipesEnergy + dotsEnergy + "|");
             
