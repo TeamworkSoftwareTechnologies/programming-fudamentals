@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from tellniko
+using System;
 
 namespace _02._Rectangle_Area
 {
@@ -6,10 +7,10 @@ namespace _02._Rectangle_Area
     {
         static void Main(string[] args)
         {
-            double width = double.Parse(Console.ReadLine());
-            double height = double.Parse(Console.ReadLine()); ;
+            decimal width = decimal.Parse(Console.ReadLine());
+            decimal height = decimal.Parse(Console.ReadLine()); ;
 
-            double area = width * height;
+            decimal area = width * height;
 
             Console.WriteLine("{0:f2}", area);
         }
