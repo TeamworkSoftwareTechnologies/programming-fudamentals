@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Confirmed by NapsterBG
+using System;
 
 namespace _03._Miles_to_kilometers
 {
