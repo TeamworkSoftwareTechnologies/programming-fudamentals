@@ -59,7 +59,7 @@ Note: **1 mile == 1.60934 kilometers**
 | :---   |     :---: | :---:  |   :---:   | :---:   |     :---: |
 |  60    |  96.56    |  1     |  1.61     | 52.1113 |  83.86    |
 
-## Problem 4. Beverage Labels
+## Problem 4. [Beverage Labels](https://github.com/TeamworkSoftwareTechnologies/programming-fudamentals/blob/master/intro-and-basic-syntax/exercises/p04-BeverageLabels/p04BeverageLabels.cs)
 
 Write a program, which reads a food product **name, volume, energy content per 100ml** and **sugar content per 100ml.** Calculate the **energy** and **sugar content** for the **given volume** and print them on the console in the following format:
     • Name – as per the input
